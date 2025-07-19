@@ -1,0 +1,12 @@
+/Users/kawabata/work/Practice/Dafny/Sec03/obj/Debug/net6.0/Ex-3.4.csproj.AssemblyReference.cache
+/Users/kawabata/work/Practice/Dafny/Sec03/obj/Debug/net6.0/Ex-3.4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kawabata/work/Practice/Dafny/Sec03/obj/Debug/net6.0/Ex-3.4.AssemblyInfoInputs.cache
+/Users/kawabata/work/Practice/Dafny/Sec03/obj/Debug/net6.0/Ex-3.4.AssemblyInfo.cs
+/Users/kawabata/work/Practice/Dafny/Sec03/obj/Debug/net6.0/Ex-3.4.csproj.CoreCompileInputs.cache
+/Users/kawabata/work/Practice/Dafny/Sec03/obj/Debug/net6.0/Ex-3.4.dll
+/Users/kawabata/work/Practice/Dafny/Sec03/obj/Debug/net6.0/ref/Ex-3.4.dll
+/Users/kawabata/work/Practice/Dafny/Sec03/obj/Debug/net6.0/Ex-3.4.pdb
+/Users/kawabata/work/Practice/Dafny/Sec03/Ex-3.4.deps.json
+/Users/kawabata/work/Practice/Dafny/Sec03/Ex-3.4.dll
+/Users/kawabata/work/Practice/Dafny/Sec03/ref/Ex-3.4.dll
+/Users/kawabata/work/Practice/Dafny/Sec03/Ex-3.4.pdb
